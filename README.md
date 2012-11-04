@@ -14,6 +14,19 @@ Tom (aka cablepair) has shown to be conservative in estimations on both the hash
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
 
+Shipping Dates
+--------------
+
+Currently Tom is on schedule to ship around the first week of December.
+
+Shipping Methods
+----------------
+
+Standard is USPS, though an upgrade to DHL is available.
+
+Persons inside the United States won't notice the upgrade much; however, those outside the
+US should notice a large improvement in shipping time. (source me)
+
 Power Requirements
 ------------------
 
