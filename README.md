@@ -7,12 +7,14 @@ The primary source is [this thread on
 bitcointalk.org](https://bitcointalk.org/index.php?topic=79637). Later pages are more
 relevant.
 
-General Comments
-----------------
+General Comments and Disclaimer
+-------------------------------
 
 Tom (aka cablepair) has shown to be conservative in estimations on both the hashing speed
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
+
+This information is provided with no guarantee. Reader discretion is advised.
 
 Contacting Tom
 --------------
@@ -71,7 +73,7 @@ coaxial connector).
 
 The barrel connector is
 [thought](https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859) to be a
-centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter)
+centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter).
 
 [Images](https://bitcointalk.org/index.php?topic=79637.msg1314785#msg1314785).
 
