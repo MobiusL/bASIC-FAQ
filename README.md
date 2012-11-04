@@ -17,6 +17,11 @@ if custom firmware, or overclocking is employed.
 Contacting Tom
 --------------
 
+Please read through this FAQ and as much of the
+[thread](https://bitcointalk.org/index.php?topic=79637) as possible before contacting him.
+Many questions have been answered here and Tom is a busy man. (Start from the end to get
+the most recent posts)
+
 If you require to contact Tom the two best methods are:
 
 * Email: [thomas@thomasvanriper.com](mailto:thomas@thomasvanriper.com)
@@ -30,7 +35,8 @@ please consider calling him.
 If you are outside the US and wish to call, please consider Google Talk or Skype as cheap
 alternatives to calling from a landline.
 
-Tom has previously stated that PM-ing him is not the fastes way to get a response. (source pls)
+Tom has previously stated that PM-ing him is not the fastes way to get a response. (source
+pls)
 
 Shipping Dates
 --------------
