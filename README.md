@@ -14,6 +14,24 @@ Tom (aka cablepair) has shown to be conservative in estimations on both the hash
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
 
+Contacting Tom
+--------------
+
+If you require to contact Tom the two best methods are:
+
+* Email: [thomas@thomasvanriper.com](mailto:thomas@thomasvanriper.com)
+* Telephone: (315) 514-0269
+
+Tom will reply to
+[all](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070) emails he
+receives; however, he may be delayed by a few days. If an urgent response is required
+please consider calling him.
+
+If you are outside the US and wish to call, please consider Google Talk or Skype as cheap
+alternatives to calling from a landline.
+
+Tom has previously stated that PM-ing him is not the fastes way to get a response. (source pls)
+
 Shipping Dates
 --------------
 
@@ -40,7 +58,8 @@ Power Connectors
 ----------------
 
 Both bASIC models will have a 4 pin molex connector and a barrel connector (aka female DC
-coaxial connector). [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070)
+coaxial connector).
+[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070)
 
 The barrel connector is
 [thought](https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859) to be a
@@ -51,12 +70,14 @@ centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter
 Power Supplies
 --------------
 
-A bASIC [*will not*](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070) ship with any power supply.
+A bASIC [*will not*](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070)
+ship with any power supply.
 
 However, you can buy a PSU that is compatible from Tom's store
 [here](https://www.bitcoinasic.net/index.php?route=product/product&product_id=54).
 This PSU will be able to power up to 10 bASIC mining units. If you are planning on running
 less than 10 a smaller PSU (in terms of wattage) might be more appropriate.
+
 
 
 
