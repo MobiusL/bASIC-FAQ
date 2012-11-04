@@ -38,6 +38,8 @@ alternatives to calling from a landline.
 Tom has previously stated that PM-ing him is not the fastes way to get a response. (source
 pls)
 
+Tom is also often available on IRC in both #bitcoin and #btcfpga on Freenode.
+
 Shipping Dates
 --------------
 
@@ -83,6 +85,19 @@ However, you can buy a PSU that is compatible from Tom's store
 [here](https://www.bitcoinasic.net/index.php?route=product/product&product_id=54).
 This PSU will be able to power up to 10 bASIC mining units. If you are planning on running
 less than 10 a smaller PSU (in terms of wattage) might be more appropriate.
+
+
+
+
+
+
+Is Tom's Shop Safe?
+-------------------
+
+Tom has stated they have a complete security system and they are located in close
+proximity to a police station. In addition, when ASICs are being assembled there will be a
+staff member present around the clock.
+[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1313840#msg1313840)
 
 
 
