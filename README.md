@@ -58,7 +58,7 @@ Current power estimates are [*at
 most*](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070) 125 watts for
 a 54 Ghash/s bASIC and approximately half for a 27 Ghash/s model.
 
-A far more likely figure is under 100 watts.
+A far more likely figure is under 100 watts. This equates to approximately 1.85 w/GH.
 
 Power Connectors
 ----------------
