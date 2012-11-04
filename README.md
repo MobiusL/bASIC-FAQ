@@ -88,7 +88,10 @@ However, you can buy a PSU that is compatible from Tom's store
 This PSU will be able to power up to 10 bASIC mining units. If you are planning on running
 less than 10 a smaller PSU (in terms of wattage) might be more appropriate.
 
-
+Please exercise due diligence with regards to PSUs. Having $10,000 worth of equipment on
+one PSU provides no hedging. If this concerns you, please consider using multiple PSUs
+(possibly with a lower maximum wattage each) in order to spread risk. This is _especially_
+true with lower quality PSUs.
 
 
 
