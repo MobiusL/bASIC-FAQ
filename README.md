@@ -30,7 +30,7 @@ Both bASIC models will have a 4 pin molex connector and a barrel connector (aka 
 coaxial connector).
 
 The barrel connector is
-(thought)[https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859] to be a
+[thought](https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859) to be a
 centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter)
 
 [Images](https://bitcointalk.org/index.php?topic=79637.msg1314785#msg1314785).
