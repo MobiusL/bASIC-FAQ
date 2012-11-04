@@ -14,7 +14,7 @@ Tom (aka cablepair) has shown to be conservative in estimations on both the hash
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
 
-This information is provided with no guarantee. Reader discretion is advised.
+This information is provided with no guarantee. Reader discretion is advised. 
 
 Contacting Tom
 --------------
