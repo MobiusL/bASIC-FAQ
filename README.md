@@ -17,7 +17,7 @@ if custom firmware, or overclocking is employed.
 Shipping Dates
 --------------
 
-Currently Tom is on schedule to ship around the first week of December.
+Currently Tom is on schedule to ship around the first week of December. (source me)
 
 Shipping Methods
 ----------------
@@ -40,7 +40,7 @@ Power Connectors
 ----------------
 
 Both bASIC models will have a 4 pin molex connector and a barrel connector (aka female DC
-coaxial connector).
+coaxial connector). [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070)
 
 The barrel connector is
 [thought](https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859) to be a
@@ -51,7 +51,7 @@ centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter
 Power Supplies
 --------------
 
-A bASIC *will not* ship with any power supply.
+A bASIC [*will not*](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070) ship with any power supply.
 
 However, you can buy a PSU that is compatible from Tom's store
 [here](https://www.bitcoinasic.net/index.php?route=product/product&product_id=54).
