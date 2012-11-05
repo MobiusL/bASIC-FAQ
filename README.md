@@ -47,6 +47,11 @@ Shipping Dates
 
 Currently Tom is on schedule to ship around the first week of December. (source me)
 
+My personal understanding is that the first batch will all be manufactured / assembled
+simultaneously and then all shipped simultaneously.
+This is pure speculation and assumption on my part. - XertroV (should be confirmed denied,
+more info needed)
+
 Shipping Methods
 ----------------
 
