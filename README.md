@@ -172,7 +172,7 @@ power just *three* bASICs (54 Gh/s model). While the total (3 \* 12 \* 13 = 468 
 normally be able to power at least four 54 Gh/s bASICs, since you are restricted by each
 rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASICs. 
 
-[_Note:_ floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail]
+_Note:_ floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail
 
 ### Formula:
 
