@@ -18,7 +18,7 @@ Units used are Volts (V), Amperes (A), Watts (W) and Gigahashes per second (Ghas
 Gh/s).
 
 **This is an unofficial FAQ**. I claim no credibility. Please use your own due diligence,
-or that of those you trust, when reading the content of this FAQ. Furthermore, this
+or that of those whom you trust, when reading the content of this FAQ. Furthermore, this
 information is provided with no guarantee. Reader discretion is advised. 
 
 Recommended Reading
