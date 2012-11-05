@@ -142,9 +142,15 @@ has one 12 V rail at 40 A; so 480 W total. This would allow me to safely power u
 If you were to buy a PSU with three 12V rails that each provided 13 A you would be able to
 power just *three* bASICs (54 Gh/s model). While the total (3 \* 12 \* 13 = 468 W) would
 normally be able to power at least four 54 Gh/s bASICs, since you are restricted by each
-rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASICs. [Note
-that floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail]
+rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASICs. 
 
+[_Note:_ floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail]
+
+### Formula:
+
+I believe the general formula would be:
+
+Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs 
 
 What is Required when Purchasing a Wall Wart with Barrel Connector
 ------------------------------------------------------------------
