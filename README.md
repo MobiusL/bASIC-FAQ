@@ -178,7 +178,7 @@ rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASIC
 
 I believe the general formula would be:
 
-Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs 
+**Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs **
 
 What is Required when Purchasing a Wall Wart with Barrel Connector
 ------------------------------------------------------------------
