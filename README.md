@@ -123,7 +123,8 @@ normal system as this PSU will be running *constantly*.
 What Should I Know When Purchasing a PSU
 --------------------------------------
 
-(Possibly inaccurate - I'm not that experienced with the matter)
+(This section is possibly inaccurate - I'm not that experienced with the matter. If
+someone could read over this and confirm it's not inaccurate I would be appreciative)
 
 I believe you should be looking at the number of 12v rails available and the amperage
 supplied to each, since that is what will be powering your bASIC.
@@ -138,7 +139,11 @@ I have personally bought
 has one 12 V rail at 40 A; so 480 W total. This would allow me to safely power up to four
 54 Gh/s bASICs and perhaps one 27 Gh/s bASIC in addition to the previous four.
 
-If you were to buy a PSU with three 12V rails that each provided 13 A you would be able to power just *three* bASICs (54 Gh/s model). While the total (3 \* 12 \* 13 = 468 W) would normally be able to power at least four 54 Gh/s bASICs, since you are restricted by each rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASICs. [Note that floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail]
+If you were to buy a PSU with three 12V rails that each provided 13 A you would be able to
+power just *three* bASICs (54 Gh/s model). While the total (3 \* 12 \* 13 = 468 W) would
+normally be able to power at least four 54 Gh/s bASICs, since you are restricted by each
+rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASICs. [Note
+that floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail]
 
 
 What is Required when Purchasing a Wall Wart with Barrel Connector
