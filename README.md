@@ -104,8 +104,10 @@ A far more likely figure is under 100 watts. This equates to approximately 1.85 
 The estimate of 100 W per 54 Gh/s bASIC is used throughout this document, and
 approximately half for 27 Gh/s models.
 
-Power Connectors
-----------------
+Power Supplies and Connectors
+-----------------------------
+
+### Power Connectors
 
 Both bASIC models will have a 4 pin molex connector and a barrel connector (aka female DC
 coaxial connector).
@@ -128,8 +130,8 @@ however, it is likely these are identical to PSU requirements: DC, 12 V, 10 A)
 
 [Images](https://bitcointalk.org/index.php?topic=79637.msg1314785#msg1314785).
 
-Power Supplies
---------------
+
+### Power Supplies
 
 A bASIC [*will not*](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070)
 ship with any power supply.
@@ -149,8 +151,7 @@ yourself the lowest risk factor you can. It is reccomended you keep the wattage 
 or so of the maximum rating on a PSU. This is more important than a PSU for gaming or a
 normal system as this PSU will be running *constantly*.
 
-What Should I Know When Purchasing a PSU
---------------------------------------
+### What Should I Know When Purchasing a PSU
 
 (This section is possibly inaccurate - I'm not that experienced with the matter. If
 someone could read over this and confirm it's not inaccurate I would be appreciative)
@@ -175,14 +176,13 @@ rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASIC
 
 **Note:** floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail
 
-### Formula:
+#### Formula:
 
 I believe the general formula would be:
 
 **Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs **
 
-What is Required when Purchasing a Wall Wart with Barrel Connector
-------------------------------------------------------------------
+### What is Required when Purchasing a Wall Wart with Barrel Connector
 
 (Todo - need confirmation of barrel connector details)
 
