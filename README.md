@@ -97,6 +97,9 @@ a 54 Ghash/s bASIC and approximately half for a 27 Ghash/s model.
 
 A far more likely figure is under 100 watts. This equates to approximately 1.85 w/GH.
 
+The estimate of 100 W per 54 Gh/s bASIC is used throughout this document, and
+approximately half for 27 Gh/s models.
+
 Power Connectors
 ----------------
 
