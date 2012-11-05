@@ -59,8 +59,10 @@ pls)
 
 Tom is also often available on IRC in both #bitcoin and #btcfpga on Freenode.
 
-Shipping Dates
---------------
+Shipping and assembly
+---------------------
+
+### Shipping Dates
 
 Currently Tom is on schedule to ship around the first week of December. (source me)
 
@@ -69,13 +71,22 @@ simultaneously and then all shipped simultaneously.
 This is pure speculation and assumption on my part. - XertroV (should be confirmed denied,
 more info needed)
 
-Shipping Methods
-----------------
+### Shipping Methods
 
 Standard is USPS, though an upgrade to DHL is available.
 
 Persons inside the United States won't notice the upgrade much; however, those outside the
 US should notice a large improvement in shipping time. (source me)
+
+### Fabrication
+
+"ASICs have been in fabrication for some weeks now" [(on 27th October,
+2012)](https://bitcointalk.org/index.php?topic=79637.msg1300687#msg1300687)
+
+### Assembly
+
+The assembly house used is able to assemble [1000 boards in 5
+days](https://bitcointalk.org/index.php?topic=79637.msg1300687#msg1300687).
 
 Power Requirements
 ------------------
@@ -175,11 +186,15 @@ bASIC ASIC details
 ------------------
 
 * 27 Gh/s: one 6 chip cluster with heatsink and fan; 90 nm architecture
-* 54 Gh/s: two 6 chip clusters with a heatsink and fan over each cluster; 90 nm architecture
+* 54 Gh/s: two 6 chip clusters with a heatsink and fan over each cluster; 90 nm
+architecture
 
-[Neither](https://bitcointalk.org/index.php?topic=121884.msg1312300#msg1312300) will be enclosed.
+[Neither](https://bitcointalk.org/index.php?topic=121884.msg1312300#msg1312300) will be
+enclosed.
 
-Sources: [54 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=51) and [27 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=50)
+Sources: [54
+Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=51) and [27
+Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=50)
 
 bASIC Physical Dimensions
 -------------------------
