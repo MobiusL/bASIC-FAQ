@@ -17,9 +17,9 @@ if custom firmware, or overclocking is employed.
 Units used are Volts (V), Amperes (A), Watts (W) and Gigahashes per second (Ghash/s or
 Gh/s).
 
-**This is an unofficial FAQ**. I claim no credibility. Please use your own due diligence,
-or that of those whom you trust, when reading the content of this FAQ. Furthermore, this
-information is provided with no guarantee. Reader discretion is advised. 
+**This is an unofficial FAQ**. I (XertroV) claim no credibility. Please use your own due
+diligence, or that of those whom you trust, when reading the content of this FAQ.
+Furthermore, this information is provided with no guarantee. Reader discretion is advised.
 
 Recommended Reading
 -------------------
@@ -70,8 +70,14 @@ Shipping and assembly
 
 ### Shipping Dates
 
+<<<<<<< HEAD
 Currently Tom is on schedule to ship the first batch around the first week of December.
+=======
+Currently Tom is on schedule to ship around the first week of December *for the first batch*.
+>>>>>>> general updates
 [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
+
+The second batch is set to ship January of 2013 (as per [bitcoinasic.net](http://www.bitcoinasic.net)).
 
 My personal understanding is that the first batch will all be manufactured / assembled
 simultaneously and then all shipped simultaneously.
@@ -183,7 +189,7 @@ rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASIC
 
 I believe the general formula would be:
 
-**Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs **
+__Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs__
 
 ### What is Required when Purchasing a Wall Wart with Barrel Connector
 
