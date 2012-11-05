@@ -16,6 +16,23 @@ if custom firmware, or overclocking is employed.
 
 This information is provided with no guarantee. Reader discretion is advised. 
 
+Recommended Reading
+-------------------
+
+Some basic understanding of electrical principles is recommended. This includes knowing
+the relationship between volts, amperes and watts. Wikipedia can help you if you need a
+basic intro.
+
+See:
+
+* [Ampere or Amp](http://en.wikipedia.org/wiki/Ampere)
+* [Volt](http://en.wikipedia.org/wiki/Volts)
+* [Watt](http://en.wikipedia.org/wiki/Watt)
+
+Note that _W = V dot A_; dot here is referring to the [Dot
+Product](http://en.wikipedia.org/wiki/Dot_product). Since there is no imaginary / vector
+component it can be treated as regular multiplication.
+
 Contacting Tom
 --------------
 
@@ -103,8 +120,29 @@ yourself the lowest risk factor you can. It is reccomended you keep the wattage 
 or so of the maximum rating on a PSU. This is more important than a PSU for gaming or a
 normal system as this PSU will be running *constantly*.
 
+What Should I Know When Purchasing a PSU
+--------------------------------------
+
+(Possibly inaccurate - I'm not that experienced with the matter)
+
+I believe you should be looking at the number of 12v rails available and the amperage
+supplied to each, since that is what will be powering your bASIC.
+
+At 12 V one 54 Gh/s model will require 8.4 amps. 
+
+The SeaSonic 1000 W PSU sold by Tom has a single rail at 12 V able to provide 83 A and so
+is able to provided 12 V * 83 A = ~1000 W.
+
+I have personally bought
+[this](https://www.pccasegear.com/index.php?main_page=product_info&products_id=14393). It
+has one 12 V rail at 40 A; so 480 W total. This would allow me to safely power up to four
+54 Gh/s bASICs and perhaps one 27 Gh/s bASIC in addition to the previous four.
+
+If you were to buy a PSU with three 12V rails that each provided 13 A you would be able to power just *three* bASICs (54 Gh/s model). While the total (3 \* 12 \* 13 = 468 W) would normally be able to power at least four 54 Gh/s bASICs, since you are restricted by each rail, in reality you can only power (3 \* floor(12 \* 13 / 100) = 3) three bASICs. [Note that floor(12 \* 13 / 100) gives the number of bASICs you can run from each rail]
 
 
+What is Required when Purchasing a Wall Wart with Barrel Connector
+------------------------------------------------------------------
 
 
 
