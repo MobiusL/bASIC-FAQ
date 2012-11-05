@@ -171,6 +171,16 @@ What is Required when Purchasing a Wall Wart with Barrel Connector
 
 
 
+bASIC ASIC details
+------------------
+
+* 27 Gh/s: one 6 chip cluster with heatsink and fan; 90 nm architecture
+* 54 Gh/s: two 6 chip clusters with a heatsink and fan over each cluster; 90 nm architecture
+
+[Neither](https://bitcointalk.org/index.php?topic=121884.msg1312300#msg1312300) will be enclosed.
+
+Sources: [54 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=51) and [27 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=50)
+
 bASIC Physical Dimensions
 -------------------------
 
