@@ -7,7 +7,8 @@ Here's a rough style guide.
 
 **Bold** should be used to grab attention and provide emphasis.
 
-Secondary headings should be used for major categories.
+Secondary headings should be used for major categories. These should be ordered roughly by
+importance.
 
 Tertiary headings should be used for subcategories or topics more removed from the parent
 secondary category but still related. Examples are particulars about shipping or formulae
