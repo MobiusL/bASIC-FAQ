@@ -70,12 +70,7 @@ Shipping and assembly
 
 ### Shipping Dates
 
-<<<<<<< HEAD
-Currently Tom is on schedule to ship the first batch around the first week of December.
-=======
-Currently Tom is on schedule to ship around the first week of December *for the first batch*.
->>>>>>> general updates
-[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
+Currently Tom is on schedule to ship around the first week of December *for the first batch*. [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
 
 The second batch is set to ship January of 2013 (as per [bitcoinasic.net](http://www.bitcoinasic.net)).
 
