@@ -21,6 +21,9 @@ Gh/s).
 diligence, or that of those whom you trust, when reading the content of this FAQ.
 Furthermore, this information is provided with no guarantee. Reader discretion is advised.
 
+If you're aware of an error on this page please email me at
+[xertrov@gmail.com](mailto:xertrov@gmail.com)
+
 Recommended Reading
 -------------------
 
@@ -225,7 +228,8 @@ Will I need to pay Import Duties if I'm in the EU
 -------------------------------------------------
 
 [This page
-(ec.europa.eu)](http://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&SimDate=20121105&Area=US&Taric=8542319000&LangDescr=en)
+(ec.europa.eu)](http://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&
+SimDate=20121105&Area=US&Taric=8542319000&LangDescr=en)
 seems to indicate that import duties will be 0%. (More to come in this regard)
 
 Do bASICs need to be okay'd by the FCC
