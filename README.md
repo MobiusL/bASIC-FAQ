@@ -7,6 +7,10 @@ The primary source is [this thread on
 bitcointalk.org](https://bitcointalk.org/index.php?topic=79637). Later pages are more
 relevant.
 
+Other sources include the [BTCFPGA / BitcoinASIC
+Forum](https://www.btcfpga.com/forum/index.php), the
+[BitcoinASIC](https://www.bitcoinasic.net) site, and other non-bitcoin related sources.
+
 General Comments and Disclaimer
 -------------------------------
 
