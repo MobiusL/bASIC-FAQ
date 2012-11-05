@@ -95,7 +95,18 @@ coaxial connector).
 
 The barrel connector is
 [thought](https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859) to be a
-centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter).
+centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter). It 
+should be able to provide 12 V and 10 A (DC of course).
+
+*If you are buying a wall wart* please buy a _high quality_ power adapter. There is no
+sense in ruining a thousand dollar piece of machinery due to a below average power
+adaptor.
+
+Cablez [sells PSU to 2.1/5.5 DC plugs](https://bitcointalk.org/index.php?topic=74397.0) 
+compatible with BitFoce singles (Tom 
+[has stated](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070) that at 
+least the dimensions are the same. The linked post is ambiguous as to power needs;
+however, it is likely these are identical to PSU requirements: DC, 12 V, 10 A)
 
 [Images](https://bitcointalk.org/index.php?topic=79637.msg1314785#msg1314785).
 
@@ -156,6 +167,17 @@ What is Required when Purchasing a Wall Wart with Barrel Connector
 ------------------------------------------------------------------
 
 (Todo - need confirmation of barrel connector details)
+
+
+
+
+bASIC Physical Dimensions
+-------------------------
+
+* 27 Gh/s: 5 x 4 inches; 12.7 x 10.2 cm (rounded up to nearest mm)
+* 54 Gh/s: 9 x 4 inches; 22.9 x 10.2 cm (rounded up to nearest mm)
+
+[Source](https://bitcointalk.org/index.php?topic=121884.msg1312300#msg1312300)
 
 
 
