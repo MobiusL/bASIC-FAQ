@@ -98,6 +98,14 @@ one PSU provides no hedging. If this concerns you, please consider using multipl
 (possibly with a lower maximum wattage each) in order to spread risk. This is _especially_
 true with lower quality PSUs.
 
+Please be sure to use _quality_ PSUs and be sure not to stress them too hard to give
+yourself the lowest risk factor you can. It is reccomended you keep the wattage below 80%
+or so of the maximum rating on a PSU. This is more important than a PSU for gaming or a
+normal system as this PSU will be running *constantly*.
+
+
+
+
 
 
 
