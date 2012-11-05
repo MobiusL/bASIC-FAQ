@@ -14,6 +14,9 @@ Tom (aka cablepair) has shown to be conservative in estimations on both the hash
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
 
+Units used are Volts (V), Amperes (A), Watts (W) and Gigahashes per second (Ghash/s or
+Gh/s).
+
 This information is provided with no guarantee. Reader discretion is advised. 
 
 Recommended Reading
