@@ -32,7 +32,7 @@ See:
 * [Volt](http://en.wikipedia.org/wiki/Volts)
 * [Watt](http://en.wikipedia.org/wiki/Watt)
 
-Note that _W = V dot A_; dot here is referring to the [Dot
+Note that **W = V dot A**; dot here is referring to the [Dot
 Product](http://en.wikipedia.org/wiki/Dot_product). Since there is no imaginary / vector
 component it can be treated as regular multiplication.
 
@@ -115,7 +115,7 @@ The barrel connector is
 centre +'ve 2.1 mmID 5.5 mmOD type. (ID = inside diameter, OD = outside diameter). It 
 should be able to provide 12 V and 10 A (DC of course).
 
-*If you are buying a wall wart* please buy a _high quality_ power adapter. There is no
+**If you are buying a wall wart** please buy a _high quality_ power adapter. There is no
 sense in ruining a thousand dollar piece of machinery due to a below average power
 adaptor.
 
@@ -140,10 +140,10 @@ less than 10 a smaller PSU (in terms of wattage) might be more appropriate.
 
 Please exercise due diligence with regards to PSUs. Having $10,000 worth of equipment on
 one PSU provides no hedging. If this concerns you, please consider using multiple PSUs
-(possibly with a lower maximum wattage each) in order to spread risk. This is _especially_
+(possibly with a lower maximum wattage each) in order to spread risk. This is *especially*
 true with lower quality PSUs.
 
-Please be sure to use _quality_ PSUs and be sure not to stress them too hard to give
+**Please be sure to use quality** PSUs and be sure not to stress them too hard to give
 yourself the lowest risk factor you can. It is reccomended you keep the wattage below 80%
 or so of the maximum rating on a PSU. This is more important than a PSU for gaming or a
 normal system as this PSU will be running *constantly*.
