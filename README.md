@@ -59,8 +59,8 @@ please consider calling him.
 If you are outside the US and wish to call, please consider Google Talk or Skype as cheap
 alternatives to calling from a landline.
 
-Tom has previously stated that PM-ing him is not the fastes way to get a response. (source
-pls)
+Tom has previously stated that PM-ing him is not the fastes way to get a response. 
+[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1308426#msg1308426)
 
 Tom is also often available on IRC in both #bitcoin and #btcfpga on Freenode.
 
