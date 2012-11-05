@@ -208,6 +208,12 @@ bASIC Physical Dimensions
 
 
 
+Will I need to pay VAT
+----------------------
+
+If you live within the EU I believe you will need to pay VAT. (Could someone please
+confirm this?)
+
 Do bASICs need to be okay'd by the FCC
 --------------------------------------
 
