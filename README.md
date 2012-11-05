@@ -70,9 +70,11 @@ Shipping and assembly
 
 ### Shipping Dates
 
-Currently Tom is on schedule to ship around the first week of December *for the first batch*. [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
+Currently Tom is on schedule to ship around the first week of December *for the first
+batch*. [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
 
-The second batch is set to ship January of 2013 (as per [bitcoinasic.net](http://www.bitcoinasic.net)).
+The second batch is set to ship January of 2013 (as per
+[bitcoinasic.net](http://www.bitcoinasic.net)).
 
 My personal understanding is that the first batch will all be manufactured / assembled
 simultaneously and then all shipped simultaneously.
@@ -219,11 +221,12 @@ bASIC Physical Dimensions
 
 
 
-Will I need to pay VAT
-----------------------
+Will I need to pay Import Duties if I'm in the EU
+-------------------------------------------------
 
-If you live within the EU I believe you will need to pay VAT. (Could someone please
-confirm this?)
+[This page
+(ec.europa.eu)](http://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&SimDate=20121105&Area=US&Taric=8542319000&LangDescr=en)
+seems to indicate that import duties will be 0%. (More to come in this regard)
 
 Do bASICs need to be okay'd by the FCC
 --------------------------------------
@@ -253,6 +256,11 @@ staff member present around the clock.
 
 
 
+Contributors
+------------
 
+XertroV (Original Author)
+
+cheebydi (VAT / Import Duties and Misc)
 
 
