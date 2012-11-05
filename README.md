@@ -59,7 +59,8 @@ please consider calling him.
 If you are outside the US and wish to call, please consider Google Talk or Skype as cheap
 alternatives to calling from a landline.
 
-Tom has previously stated that PM-ing him is not the fastes way to get a response. 
+Tom has previously stated that PM-ing him is not the fastes way to get a response; it is
+last on his list of priorities. 
 [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1308426#msg1308426)
 
 Tom is also often available on IRC in both #bitcoin and #btcfpga on Freenode.
@@ -69,7 +70,7 @@ Shipping and assembly
 
 ### Shipping Dates
 
-Currently Tom is on schedule to ship around the first week of December.
+Currently Tom is on schedule to ship the first batch around the first week of December.
 [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
 
 My personal understanding is that the first batch will all be manufactured / assembled
