@@ -67,7 +67,8 @@ Shipping and assembly
 
 ### Shipping Dates
 
-Currently Tom is on schedule to ship around the first week of December. (source me)
+Currently Tom is on schedule to ship around the first week of December.
+[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
 
 My personal understanding is that the first batch will all be manufactured / assembled
 simultaneously and then all shipped simultaneously.
@@ -229,8 +230,14 @@ regulations](https://bitcointalk.org/index.php?topic=79637.msg1313908#msg1313908
 need not worry about this.
 
 
-Is Tom's Shop Safe?
--------------------
+Tom's Shop
+----------
+
+### Images
+
+Tom's Flickr album is here: http://flic.kr/ps/2m9aox
+
+### Is it Safe?
 
 Tom has stated they have a complete security system and they are located in close
 proximity to a police station. In addition, when ASICs are being assembled there will be a
