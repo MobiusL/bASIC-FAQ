@@ -220,8 +220,8 @@ __Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs__
 
 
 
-bASIC ASIC details
-------------------
+bASIC details
+-------------
 
 * 27 Gh/s: one 6 chip cluster with heatsink and fan; 90 nm architecture
 * 54 Gh/s: two 6 chip clusters with a heatsink and fan over each cluster; 90 nm
@@ -234,8 +234,7 @@ Sources: [54
 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=51) and [27
 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=50)
 
-bASIC Physical Dimensions
--------------------------
+### bASIC Physical Dimensions
 
 * 27 Gh/s: 5 x 4 inches; 12.7 x 10.2 cm (rounded up to nearest mm)
 * 54 Gh/s: 9 x 4 inches; 22.9 x 10.2 cm (rounded up to nearest mm)
@@ -290,6 +289,6 @@ chronological order of contribution):
 
 * XertroV (Original Author)
 * cheebydi (VAT / Import Duties and Misc)
-* Odi (Lots of fact-checking and sourcing)
+* Odi (New material suggestions plus fact-checking and sourcing)
 
 
