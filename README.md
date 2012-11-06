@@ -259,7 +259,7 @@ Do bASICs need to be okay'd by the FCC
 
 This is unlikely because they are shipped as components and not a stand-alone machine.
 Despite this, Tom [will be ensuring that bASICs are within FCC
-regulations](https://bitcointalk.org/index.php?topic=79637.msg1313908#msg1313908). You
+regulations](https://bitcointalk.org/index.php?topic=79637.msg1313940#msg1313940). You
 need not worry about this.
 
 
