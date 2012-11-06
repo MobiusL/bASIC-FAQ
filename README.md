@@ -77,8 +77,21 @@ Shipping and assembly
 
 ### Shipping Dates
 
-Currently Tom is on schedule to ship around the first week of December *for the first
-batch*. [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091)
+Currently Tom is [on
+schedule](https://bitcointalk.org/index.php?topic=79637.msg1312091#msg1312091) to ship
+around the [first week of
+December](https://bitcointalk.org/index.php?topic=79637.msg1257857#msg1257857) *for the
+first
+batch*. 
+
+_Note_: there has been some ambiguity regarding what ["first week after
+thanksgiving"](https://bitcointalk.org/index.php?topic=79637.msg1257857#msg1257857) means.
+Tom has stated this is the [next business
+week](https://bitcointalk.org/index.php?topic=79637.msg1291185#msg1291185) following the
+week containing Thanksgiving. A realistic timeframe is approximately __after the 26th of 
+Nov. but before the 7th of Dec.__
+
+https://bitcointalk.org/index.php?topic=79637.msg1257857#msg1257857
 
 The second batch is set to ship January of 2013 (as per
 [bitcoinasic.net](http://www.bitcoinasic.net)).
@@ -271,8 +284,10 @@ staff member present around the clock.
 Contributors
 ------------
 
-XertroV (Original Author)
+My appreciation is given to all contributors. They are as follows (probably in chronological order of contribution):
 
-cheebydi (VAT / Import Duties and Misc)
+* XertroV (Original Author)
+* cheebydi (VAT / Import Duties and Misc)
+* Odi (Lots of fact-checking and sourcing)
 
 
