@@ -219,7 +219,6 @@ __Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs__
 
 
 
-
 bASIC details
 -------------
 
@@ -234,12 +233,37 @@ Sources: [54
 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=51) and [27
 Gh/s](https://www.bitcoinasic.net/index.php?route=product/product&product_id=50)
 
+### Production details
+
+Tasks handled by the assembly firm and their engineers:
+[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1238806#msg1238806)
+
+* Designing the production board
+* Fabrication of PCB's
+* Assembly of boards to completion
+
+After this the final boards will be shipped to Tom. Then - with a team of full time
+employees the following will occur: [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1238806#msg1238806)
+
+* Open boxes
+* Load Firmware
+* Test bASICs for 24 hours each
+* Box up and ship
+
+Production and assembly will be a long process, and may take up to a week.
+
 ### bASIC Physical Dimensions
 
 * 27 Gh/s: 5 x 4 inches; 12.7 x 10.2 cm (rounded up to nearest mm)
 * 54 Gh/s: 9 x 4 inches; 22.9 x 10.2 cm (rounded up to nearest mm)
 
 [Source](https://bitcointalk.org/index.php?topic=121884.msg1312300#msg1312300)
+
+### SHA256 Core
+
+The SHA256 Core (the heart of the ASIC) has [been provided by a 'well known' company from
+outside the US](https://bitcointalk.org/index.php?topic=79637.msg1157886#msg1157886). They
+are a top design firm in regards to these types of cores.
 
 
 
