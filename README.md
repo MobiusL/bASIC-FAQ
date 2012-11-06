@@ -97,10 +97,7 @@ https://bitcointalk.org/index.php?topic=79637.msg1257857#msg1257857
 The second batch is set to ship January of 2013 (as per
 [bitcoinasic.net](http://www.bitcoinasic.net)).
 
-My personal understanding is that the first batch will all be manufactured / assembled
-simultaneously and then all shipped simultaneously.
-This is pure speculation and assumption on my part. - XertroV (should be confirmed denied,
-more info needed)
+[section last here removed due to being complete speculation]
 
 ### Shipping Methods
 
