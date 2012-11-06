@@ -1,7 +1,7 @@
-bASIC-FAQ
-=========
+Unofficial bASIC-FAQ
+====================
 
-FAQ for the bASIC sold by BTCFPGA / BitcoinASIC
+An unofficial FAQ for the bASIC sold by BTCFPGA / BitcoinASIC
 
 The primary source is [this thread on
 bitcointalk.org](https://bitcointalk.org/index.php?topic=79637). Later pages are more
@@ -95,7 +95,8 @@ Nov. but before the 7th of Dec.__
 https://bitcointalk.org/index.php?topic=79637.msg1257857#msg1257857
 
 The second batch is set to ship January of 2013 (as per
-[bitcoinasic.net](http://www.bitcoinasic.net)).
+[bitcoinasic.net](http://www.bitcoinasic.net)). Tom has stated it should ship a month
+after the first batch. (IRC #btcfpga; 20121106)
 
 [section last here removed due to being complete speculation]
 
