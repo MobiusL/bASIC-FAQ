@@ -93,7 +93,9 @@ more info needed)
 Standard is USPS, though an upgrade to DHL is available.
 
 Persons inside the United States won't notice the upgrade much; however, those outside the
-US should notice a large improvement in shipping time. (source me)
+US (and possibly Canada) should notice a [large
+improvement](https://bitcointalk.org/index.php?topic=79637.msg1294089#msg1294089) in
+shipping time.
 
 ### Fabrication
 
