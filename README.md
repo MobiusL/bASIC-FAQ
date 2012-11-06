@@ -243,7 +243,8 @@ Tasks handled by the assembly firm and their engineers:
 * Assembly of boards to completion
 
 After this the final boards will be shipped to Tom. Then - with a team of full time
-employees the following will occur: [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1238806#msg1238806)
+employees the following will occur:
+[(Source)](https://bitcointalk.org/index.php?topic=79637.msg1238806#msg1238806)
 
 * Open boxes
 * Load Firmware
@@ -275,7 +276,12 @@ Will I need to pay Import Duties if I'm in the EU
 [This page
 (ec.europa.eu)](http://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&
 SimDate=20121105&Area=US&Taric=8542319000&LangDescr=en)
-seems to indicate that import duties will be 0%. (More to come in this regard)
+seems to indicate that import duties will be 0%.
+
+You may be required to pay VAT if you don't have a VAT number. This will be changed on the
+total customs value (e.g. $1069 per bASIC + $90 for DHL). The authors encourage you to
+research this for your particular case.
+[http://www.dutycalculator.com/](http://www.dutycalculator.com/) may be of assistance.
 
 Do bASICs need to be okay'd by the FCC
 --------------------------------------
