@@ -21,9 +21,10 @@ if custom firmware, or overclocking is employed.
 Units used are Volts (V), Amperes (A), Watts (W) and Gigahashes per second (Ghash/s or
 Gh/s).
 
-**This is an unofficial FAQ**. I (XertroV) claim no credibility. Please use your own due
-diligence, or that of those whom you trust, when reading the content of this FAQ.
-Furthermore, this information is provided with no guarantee. Reader discretion is advised.
+**This is an unofficial FAQ**. I (XertroV) and other contributors claim no credibility. 
+Please use your own due diligence, or that of those whom you trust, when reading the
+content of this FAQ. Furthermore, this information is provided with no guarantee. Reader
+discretion is advised.
 
 If you're aware of an error on this page please email me at
 [xertrov@gmail.com](mailto:xertrov@gmail.com)
