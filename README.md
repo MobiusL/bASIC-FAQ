@@ -4,8 +4,8 @@ Unofficial bASIC-FAQ
 An unofficial FAQ for the bASIC sold by BTCFPGA / BitcoinASIC
 
 The primary source is [this thread on
-bitcointalk.org](https://bitcointalk.org/index.php?topic=79637). Later pages are more
-relevant.
+bitcointalk.org](https://bitcointalk.org/index.php?topic=79637) and the [BTCFPGA 
+forums](https://www.btcfpga.com/forum/). Later pages are more relevant.
 
 Other sources include the [BTCFPGA / BitcoinASIC
 Forum](https://www.btcfpga.com/forum/index.php), the
