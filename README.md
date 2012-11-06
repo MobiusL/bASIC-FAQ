@@ -141,11 +141,12 @@ Both bASIC models will have a 4 pin molex connector and a barrel connector (aka 
 coaxial connector).
 [(Source)](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070)
 
-The barrel connector is thought to be a centre +'ve
+The barrel connector is _thought_ to be a centre +'ve
 [2.1](https://bitcointalk.org/index.php?topic=79637.msg1314859#msg1314859) or
 [2.5](https://bitcointalk.org/index.php?topic=79637.msg1315524#msg1315524) mmID 5.5 mmOD
-type. (ID = inside diameter, OD = outside diameter). It 
-should be able to provide 12 V and 10 A (DC of course).
+type. (ID = inside diameter, OD = outside diameter). It should be able to provide 12 V and
+10 A (DC of course). It seems 2.1/5.5 centre +'ve connectors are uncommon above 5 A, so a
+2.5/5.5 connector might be more likely (often rated for up to 10 A).
 
 **If you are buying a wall wart** please buy a _high quality_ power adapter. There is no
 sense in ruining a thousand dollar piece of machinery due to a below average power
@@ -284,7 +285,8 @@ staff member present around the clock.
 Contributors
 ------------
 
-My appreciation is given to all contributors. They are as follows (probably in chronological order of contribution):
+My appreciation is given to all contributors. They are as follows (probably in
+chronological order of contribution):
 
 * XertroV (Original Author)
 * cheebydi (VAT / Import Duties and Misc)
