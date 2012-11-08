@@ -18,11 +18,11 @@ Contents
 * [Recommended Reading](#recommended-reading)
 * [Contacting Tom](#contacting-tom)
 * [Shipping and Assembly](#shipping-and-assembly)
-
-** [Shipping Dates](#shipping-dates)
-** [Shipping Methods](#shipping-methods)
-** [Fabrication](#fabrication)
-** [Assembly](#assembly)
+    * [Shipping Dates](#shipping-dates)
+    * [Shipping Methods](#shipping-methods)
+    * [Fabrication](#fabrication)
+    * [Assembly](#assembly)
+* [Power Requirements](#power-requirements)
 
 
 General Comments and Disclaimer
