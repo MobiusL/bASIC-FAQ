@@ -23,6 +23,23 @@ Contents
     * [Fabrication](#fabrication)
     * [Assembly](#assembly)
 * [Power Requirements](#power-requirements)
+* [Power Supplies and Connectors](#power-supplies-and-connectors)
+    * [Power Supplies]
+    * [Power Connectors]
+    * [What Should I Know When Purchasing a PSU](#what-should-i-know-when-purchasing-a-psu)
+        * [Formula](#formula)
+    * [What is Required when Purchasing a Wall Wart](#what-is-required-when-purchasing-a-wall-wart)
+* [bASIC details](#basic-details)
+    * [Production details](#production-details)
+    * [bASIC Physical Dimensions](#basic-physical-dimensions)
+    * [SHA256 Core](#sha256-core)
+* [Will I need to pay Import Duties if I'm in the 
+EU](#will-i-need-to-pay-import-duties-if-im-in-the-eu)
+* [Do bASICs need to be okay'd by the FCC](#do-basics-need-to-be-okayd-by-the-fcc)
+* [Tom's Shop](#toms-shop)
+    * [Images](#images)
+    * [Is It Safe?](#is-it-safe)
+* [Contributors](#contributors)
 
 
 General Comments and Disclaimer
