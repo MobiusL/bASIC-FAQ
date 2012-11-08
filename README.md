@@ -29,11 +29,12 @@ Contents
     * [What Should I Know When Purchasing a PSU](#what-should-i-know-when-purchasing-a-psu)
         * [Formula](#formula)
     * [What is Required when Purchasing a Wall Wart](#what-is-required-when-purchasing-a-wall-wart)
+* [Mining With a bASIC](#mining-with-a-basic)
+    * [Compatible Miners](#compatible-miners)
 * [bASIC details](#basic-details)
     * [Production details](#production-details)
     * [bASIC Physical Dimensions](#basic-physical-dimensions)
     * [SHA256 Core](#sha256-core)
-    * [Compatible Miners](#compatible-miners)
 * [Will I need to pay Import Duties if I'm in the 
 EU](#will-i-need-to-pay-import-duties-if-im-in-the-eu)
 * [Do bASICs need to be okay'd by the FCC](#do-basics-need-to-be-okayd-by-the-fcc)
@@ -254,6 +255,18 @@ __Num-rails \* floor(rail-volts \* rail-amps / 100 Watts) = Num-bASICs__
 (Todo - need confirmation of barrel connector details)
 
 
+Mining With a bASIC
+-------------------
+
+### Compatible Miners
+
+I (XertroV) don't know much about this. If you can lend a hand it'd be appreciated. I won't
+add software unless it can be sourced to protect against my own ignorance.
+
+* [BFGMiner](https://bitcointalk.org/index.php?topic=78192.0)
+
+
+
 
 bASIC details
 -------------
@@ -301,13 +314,6 @@ Production and assembly will be a long process, and may take up to a week.
 The SHA256 Core (the heart of the ASIC) has [been provided by a 'well known' company from
 outside the US](https://bitcointalk.org/index.php?topic=79637.msg1157886#msg1157886). They
 are a top design firm in regards to these types of cores.
-
-### Compatible Miners
-
-I (XertroV) don't know much about this. If you can lend a hand it'd be appreciated. I won't
-add software unless it can be sourced to protect against my own ignorance.
-
-* [BFGMiner](https://bitcointalk.org/index.php?topic=78192.0)
 
 
 
