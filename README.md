@@ -24,8 +24,8 @@ Contents
     * [Assembly](#assembly)
 * [Power Requirements](#power-requirements)
 * [Power Supplies and Connectors](#power-supplies-and-connectors)
-    * [Power Supplies]
-    * [Power Connectors]
+    * [Power Supplies](#power-supplies)
+    * [Power Connectors](#power-connectors)
     * [What Should I Know When Purchasing a PSU](#what-should-i-know-when-purchasing-a-psu)
         * [Formula](#formula)
     * [What is Required when Purchasing a Wall Wart](#what-is-required-when-purchasing-a-wall-wart)
