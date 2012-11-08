@@ -124,11 +124,13 @@ house is [thought](https://www.btcfpga.com/forum/index.php?topic=21.msg148#msg14
 Power Requirements
 ------------------
 
-Current power estimates are [*at
-most*](https://bitcointalk.org/index.php?topic=79637.msg1315070#msg1315070) 125 watts for
-a 54 Ghash/s bASIC and approximately half for a 27 Ghash/s model.
+Tom has [stated](https://www.btcfpga.com/forum/index.php?topic=4.msg132#msg132) that
+power requirements are estimated to be:
 
-A far more likely figure is under 100 watts. This equates to approximately 1.85 w/GH.
+* 27 Gh/s: 50 - 60 Watts
+* 54 Gh/s: 100 - 120 Watts
+
+Both are thus **1.85 - 2.22 W / Gh/s**
 
 The estimate of 100 W per 54 Gh/s bASIC is used throughout this document, and
 approximately half for 27 Gh/s models.
