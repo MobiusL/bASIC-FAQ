@@ -11,6 +11,18 @@ Other sources include the [BTCFPGA / BitcoinASIC
 Forum](https://www.btcfpga.com/forum/index.php), the
 [BitcoinASIC](https://www.bitcoinasic.net) site, and other non-bitcoin related sources.
 
+Contents
+========
+
+* [General Comments and Disclaimer](#general-comments-and-disclaimer)
+* [Recommended Reading](#recommended-reading)
+* [Contacting Tom](#contacting-tom)
+* [Shipping and Assembly](#shipping-and-assembly)
+* * [Shipping Dates](#shipping-dates)
+* * [Shipping Methods](#shipping-methods)
+* * [Fabrication](#fabrication)
+* * [Assembly](#assembly)
+
 General Comments and Disclaimer
 -------------------------------
 
