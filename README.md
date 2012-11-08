@@ -18,8 +18,9 @@ Tom (aka cablepair) has shown to be conservative in estimations on both the hash
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
 
-Units used are Volts (V), Amperes (A), Watts (W) and Gigahashes per second (Ghash/s or
-Gh/s).
+Units used are Volts (V), Amperes (A), Watts (W), Joules (J) and Gigahashes per second (Ghash/s or
+Gh/s). This document also uses combinations of the above. It should be noted that W / Gh/s are
+equivalent to J / Gh. They may be used interchangeably.
 
 **This is an unofficial FAQ**. I (XertroV) and other contributors claim no credibility. 
 Please use your own due diligence, or that of those whom you trust, when reading the
