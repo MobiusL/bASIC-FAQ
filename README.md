@@ -117,7 +117,9 @@ shipping time.
 ### Assembly
 
 The assembly house used is able to assemble [1000 boards in 5
-days](https://bitcointalk.org/index.php?topic=79637.msg1300687#msg1300687).
+days](https://bitcointalk.org/index.php?topic=79637.msg1300687#msg1300687). The assembly
+house is [thought](https://www.btcfpga.com/forum/index.php?topic=21.msg148#msg148) to be
+[Screaming Circuits](http://www.screamingcircuits.com/) (official source needed)
 
 Power Requirements
 ------------------
