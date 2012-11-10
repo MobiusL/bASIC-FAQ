@@ -11,6 +11,8 @@ Other sources include the [BTCFPGA / BitcoinASIC
 Forum](https://www.btcfpga.com/forum/index.php), the
 [BitcoinASIC](https://www.bitcoinasic.net) site, and other non-bitcoin related sources.
 
+Last updated: **0500 10/11/2012 GMT**
+
 Contents
 ========
 
