@@ -26,15 +26,18 @@ Contents
 * [Power Supplies and Connectors](#power-supplies-and-connectors)
     * [Power Supplies](#power-supplies)
     * [Power Connectors](#power-connectors)
-    * [What Should I Know When Purchasing a PSU](#what-should-i-know-when-purchasing-a-psu)
+    * [What Should I Know When Purchasing a
+PSU](#what-should-i-know-when-purchasing-a-psu)
         * [Formula](#formula)
-    * [What is Required when Purchasing a Wall Wart](#what-is-required-when-purchasing-a-wall-wart)
+    * [What is Required when Purchasing a Wall
+Wart](#what-is-required-when-purchasing-a-wall-wart)
 * [Mining With a bASIC](#mining-with-a-basic)
     * [Compatible Miners](#compatible-miners)
 * [bASIC details](#basic-details)
     * [Production details](#production-details)
     * [bASIC Physical Dimensions](#basic-physical-dimensions)
     * [SHA256 Core](#sha256-core)
+    * [Micro-controller](#micro-controller)
 * [Will I need to pay Import Duties if I'm in the 
 EU](#will-i-need-to-pay-import-duties-if-im-in-the-eu)
 * [Do bASICs need to be okay'd by the FCC](#do-basics-need-to-be-okayd-by-the-fcc)
@@ -51,8 +54,10 @@ Tom (aka cablepair) has shown to be conservative in estimations on both the hash
 and power requirements of his products. _However_, the estimates may be higher (or lower)
 if custom firmware, or overclocking is employed.
 
-Units used are Volts (V), Amperes (A), Watts (W), Joules (J) and Gigahashes per second (Ghash/s or
-Gh/s). This document also uses combinations of the above. It should be noted that W / Gh/s are
+Units used are Volts (V), Amperes (A), Watts (W), Joules (J) and Gigahashes per second
+(Ghash/s or
+Gh/s). This document also uses combinations of the above. It should be noted that W / Gh/s
+are
 equivalent to J / Gh. They may be used interchangeably.
 
 **This is an unofficial FAQ**. I (XertroV) and other contributors claim no credibility. 
@@ -260,7 +265,8 @@ Mining With a bASIC
 
 ### Compatible Miners
 
-I (XertroV) don't know much about this. If you can lend a hand it'd be appreciated. I won't
+I (XertroV) don't know much about this. If you can lend a hand it'd be appreciated. I
+won't
 add software unless it can be sourced to protect against my own ignorance.
 
 * [BFGMiner](https://bitcointalk.org/index.php?topic=78192.0)
@@ -314,6 +320,13 @@ Production and assembly will be a long process, and may take up to a week.
 The SHA256 Core (the heart of the ASIC) has [been provided by a 'well known' company from
 outside the US](https://bitcointalk.org/index.php?topic=79637.msg1157886#msg1157886). They
 are a top design firm in regards to these types of cores.
+
+### Micro-controller:
+
+The [final decision](https://www.btcfpga.com/forum/index.php?topic=37.msg269#msg269) has
+been made. Information is available at
+[http://www.st.com/internet/mcu/product/245079.jsp](http://www.st.com/internet/mcu/product
+/245079.jsp). Firmware development is underway.
 
 
 
