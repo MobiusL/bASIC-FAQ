@@ -13,6 +13,12 @@ Forum](https://www.btcfpga.com/forum/index.php), the
 
 Last updated: **0300 12/11/2012 GMT**
 
+### Important Recent Updates
+
+New Head of PR / Customer Service: Dave. Please see 
+[https://www.btcfpga.com/forum/index.php?topic=44.0]
+(https://www.btcfpga.com/forum/index.php?topic=44.0) for more information.
+
 Contents
 ========
 
