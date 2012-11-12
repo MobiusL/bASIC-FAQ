@@ -11,7 +11,7 @@ Other sources include the [BTCFPGA / BitcoinASIC
 Forum](https://www.btcfpga.com/forum/index.php), the
 [BitcoinASIC](https://www.bitcoinasic.net) site, and other non-bitcoin related sources.
 
-Last updated: **0500 10/11/2012 GMT**
+Last updated: **0300 12/11/2012 GMT**
 
 Contents
 ========
@@ -87,13 +87,19 @@ Note that **W = V dot A**; dot here is referring to the [Dot
 Product](http://en.wikipedia.org/wiki/Dot_product). Since there is no imaginary / vector
 component it can be treated as regular multiplication.
 
-Contacting Tom
+Contact and Customer Support
 --------------
 
-Please read through this FAQ and as much of the
-[thread](https://bitcointalk.org/index.php?topic=79637) as possible before contacting him.
-Many questions have been answered here and Tom is a busy man. (Start from the end to get
-the most recent posts)
+Please read through this FAQ and the [forums](https://www.btcfpga.com/forum/) before
+contacting either Tom or Dave (who is the new [Head of PR and Customer Service]
+(https://www.btcfpga.com/forum/index.php?topic=44.0)). Tom remains personally avaliable,
+however, if your query is simple please consider contacting Dave.
+
+Dave (aka buzzdave) will be avaliable in IRC (#btcfpga) and forums, as well as in the 
+following ways:
+
+* Skype: buzzdavefx
+* Email: [dave@bitcoinasic.com](mailto:dave@bitcoinasic.com)
 
 If you require to contact Tom the two best methods are:
 
